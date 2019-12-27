@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/tvincent056/linter-gcc2.svg?branch=master)](https://travis-ci.com/tvincent056/linter-gcc2) [![apm](https://img.shields.io/apm/dm/linter-gcc2.svg?style=flat-square)](https://atom.io/packages/linter-gcc2)
 
-> **_Waring_**: This plugin has been merged with the original [linter-gcc](https://github.com/AtomLinter/linter-gcc) and will no longer be updated. Please use that version instead.
+> **_Warning_**: This plugin has been merged with the original [linter-gcc](https://github.com/AtomLinter/linter-gcc) and will no longer be updated. Please use that version instead.
 
 This plugin provides an interface to gcc/g++ for linting and works with either [Linter](https://github.com/AtomLinter/Linter) or [atom-ide-ui](https://github.com/facebook-atom/atom-ide-ui) (through [atom-ide-diagnostics](https://github.com/facebook-atom/atom-ide-ui/tree/master/modules/atom-ide-ui/pkg/atom-ide-diagnostics)). You will need to manually install one or the other before it will function properly.
 
